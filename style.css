@@ -1,0 +1,35 @@
+body
+{
+background-image:url('7.jpg') ;
+color:Black;
+font-size: 12px;
+font-family: "Comic Sans MS"
+}
+#container {
+background: #FFD1DC;
+margin: 30px auto;
+width: 900px;
+height: 850px;
+}
+#header {
+background: Thistle;
+height: 150px;
+width: 900px;
+}
+#menu {
+background: #FFD1DC;
+float: left;
+width: 200px;
+height: 600px;
+}
+#content {
+background: MistyRose;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: Thistle;
+height: 80px;
+width: 900px;
+}
